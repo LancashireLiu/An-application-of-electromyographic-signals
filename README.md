@@ -5,11 +5,11 @@ This is a course design from Circuits and ElectronicsⅢ and I am the leader of 
 
 ***
 
-![理念图3](picidea)
+![理念图3](https://github.com/LancashireLiu/An-application-of-electromyographic-signals/blob/main/picidea.jpg)
 
-![实物图1](portpic1)
+![实物图1](https://github.com/LancashireLiu/An-application-of-electromyographic-signals/blob/main/portpic.png)
 
-![实物图2](portpic2)
+![实物图2](https://github.com/LancashireLiu/An-application-of-electromyographic-signals/blob/main/recognizepic.png)
 
-![屏幕](picdif)
+![屏幕](https://github.com/LancashireLiu/An-application-of-electromyographic-signals/blob/main/picdif.png)
 
